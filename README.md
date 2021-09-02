@@ -1,1 +1,8 @@
-# Stacking-Regressor-Housing-Prices-Competition
+# Stacking Regressor, Housing Prices Competition
+
+<img src="/resources/header.png?raw=true"/>
+
+---
+
+
+
